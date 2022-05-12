@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.SampleTest" time="0.018" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum\target\test-classes;C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum\target\classes;C:\Users\paulo\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar;C:\Users\paulo\.m2\repository\javax\enterprise\cdi-api\2.0\cdi-api-2.0.jar;C:\Users\paulo\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar;C:\Users\paulo\.m2\repository\javax\interceptor\javax.interceptor-api\1.2\javax.interceptor-api-1.2.jar;C:\Users\paulo\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\paulo\.m2\repository\javax\ws\rs\javax.ws.rs-api\2.1\javax.ws.rs-api-2.1.jar;C:\Users\paulo\.m2\repository\javax\json\bind\javax.json.bind-api\1.0\javax.json.bind-api-1.0.jar;C:\Users\paulo\.m2\repository\javax\json\javax.json-api\1.1\javax.json-api-1.1.jar;C:\Users\paulo\.m2\repository\javax\annotation\javax.annotation-api\1.3\javax.annotation-api-1.3.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\config\microprofile-config-api\1.3\microprofile-config-api-1.3.jar;C:\Users\paulo\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.0.0\org.osgi.annotation.versioning-1.0.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\fault-tolerance\microprofile-fault-tolerance-api\2.0\microprofile-fault-tolerance-api-2.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\health\microprofile-health-api\2.0\microprofile-health-api-2.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\metrics\microprofile-metrics-api\2.0.0\microprofile-metrics-api-2.0.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\jwt\microprofile-jwt-auth-api\1.1\microprofile-jwt-auth-api-1.1.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\openapi\microprofile-openapi-api\1.1\microprofile-openapi-api-1.1.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\rest\client\microprofile-rest-client-api\1.3\microprofile-rest-client-api-1.3.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\opentracing\microprofile-opentracing-api\1.3\microprofile-opentracing-api-1.3.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter\5.5.0\junit-jupiter-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.0\junit-jupiter-api-5.5.0.jar;C:\Users\paulo\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\paulo\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\paulo\.m2\repository\org\junit\platform\junit-platform-commons\1.5.0\junit-platform-commons-1.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.0\junit-jupiter-params-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.0\junit-jupiter-engine-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\platform\junit-platform-engine\1.5.0\junit-platform-engine-1.5.0.jar;C:\Users\paulo\.m2\repository\org\mockito\mockito-core\3.1.0\mockito-core-3.1.0.jar;C:\Users\paulo\.m2\repository\net\bytebuddy\byte-buddy\1.9.10\byte-buddy-1.9.10.jar;C:\Users\paulo\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.10\byte-buddy-agent-1.9.10.jar;C:\Users\paulo\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="user.country.format" value="BR"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin"/>
+    <property name="sun.java.command" value="C:\Users\paulo\AppData\Local\Temp\surefire14290809507091140715\surefirebooter7127232043012320070.jar C:\Users\paulo\AppData\Local\Temp\surefire14290809507091140715 2022-05-12T14-10-50_572-jvmRun1 surefire9891706897482293848tmp surefire_010326701152739927491tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum\target\test-classes;C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum\target\classes;C:\Users\paulo\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar;C:\Users\paulo\.m2\repository\javax\enterprise\cdi-api\2.0\cdi-api-2.0.jar;C:\Users\paulo\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar;C:\Users\paulo\.m2\repository\javax\interceptor\javax.interceptor-api\1.2\javax.interceptor-api-1.2.jar;C:\Users\paulo\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\paulo\.m2\repository\javax\ws\rs\javax.ws.rs-api\2.1\javax.ws.rs-api-2.1.jar;C:\Users\paulo\.m2\repository\javax\json\bind\javax.json.bind-api\1.0\javax.json.bind-api-1.0.jar;C:\Users\paulo\.m2\repository\javax\json\javax.json-api\1.1\javax.json-api-1.1.jar;C:\Users\paulo\.m2\repository\javax\annotation\javax.annotation-api\1.3\javax.annotation-api-1.3.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\config\microprofile-config-api\1.3\microprofile-config-api-1.3.jar;C:\Users\paulo\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.0.0\org.osgi.annotation.versioning-1.0.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\fault-tolerance\microprofile-fault-tolerance-api\2.0\microprofile-fault-tolerance-api-2.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\health\microprofile-health-api\2.0\microprofile-health-api-2.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\metrics\microprofile-metrics-api\2.0.0\microprofile-metrics-api-2.0.0.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\jwt\microprofile-jwt-auth-api\1.1\microprofile-jwt-auth-api-1.1.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\openapi\microprofile-openapi-api\1.1\microprofile-openapi-api-1.1.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\rest\client\microprofile-rest-client-api\1.3\microprofile-rest-client-api-1.3.jar;C:\Users\paulo\.m2\repository\org\eclipse\microprofile\opentracing\microprofile-opentracing-api\1.3\microprofile-opentracing-api-1.3.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter\5.5.0\junit-jupiter-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.0\junit-jupiter-api-5.5.0.jar;C:\Users\paulo\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\paulo\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\paulo\.m2\repository\org\junit\platform\junit-platform-commons\1.5.0\junit-platform-commons-1.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.0\junit-jupiter-params-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.0\junit-jupiter-engine-5.5.0.jar;C:\Users\paulo\.m2\repository\org\junit\platform\junit-platform-engine\1.5.0\junit-platform-engine-1.5.0.jar;C:\Users\paulo\.m2\repository\org\mockito\mockito-core\3.1.0\mockito-core-3.1.0.jar;C:\Users\paulo\.m2\repository\net\bytebuddy\byte-buddy\1.9.10\byte-buddy-1.9.10.jar;C:\Users\paulo\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.10\byte-buddy-agent-1.9.10.jar;C:\Users\paulo\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\paulo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.14"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\paulo\AppData\Local\Temp\surefire14290809507091140715\surefirebooter7127232043012320070.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.14+8-LTS-263"/>
+    <property name="user.name" value="paulo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.6\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\paulo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\paulo\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.14"/>
+    <property name="user.dir" value="C:\Users\paulo\OneDrive\Área de Trabalho\Pos JAVA\Java EE\SomarDoisNum\SomarDoisNum"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="pt"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Apache Software Foundation\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\paulo\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin;;C:\Program Files (x86)\Java\jre1.8.0_301\bin\;C:\Users\paulo\AppData\Local\GitHubDesktop\bin;C:\Users\paulo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\paulo\.dotnet\tools;C:\Users\paulo\AppData\Roaming\npm;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.14+8-LTS-263"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="simpleJUnit5Test" classname="br.SampleTest" time="0.014"/>
+</testsuite>

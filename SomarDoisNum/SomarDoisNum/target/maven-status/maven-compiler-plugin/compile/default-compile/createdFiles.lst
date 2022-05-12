@@ -1,0 +1,5 @@
+br\ejb\EjbLocalLocal.class
+br\SampleResource.class
+br\jsf\JsfLocal.class
+br\ejb\EjbLocal.class
+br\JAXRSConfiguration.class
